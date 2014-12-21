@@ -3,9 +3,10 @@ Developing-Data-Products
 
 Assignment Submission Files
 
-ui.R
-server.R
-README.md
+a. ui.R
+b. server.R
+c. README.md
+
 Instructions
 
 1. Clone the code using 'git clone https://github.com/apoorvkumar91/Developing-Data-Products.git YOURDIRECTORY'
