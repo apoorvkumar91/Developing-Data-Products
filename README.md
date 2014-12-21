@@ -29,6 +29,7 @@ Instructions
 6. You will see the application in a browser. Follow the instructions to use the application.
 
 Dependencies: Shiny library
+
 More Information
 
 The application is deployed on ShinyApps.io at https://apoorvkumar91.shinyapps.io/Assignment/
